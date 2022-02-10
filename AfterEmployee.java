@@ -115,7 +115,7 @@ public class AfterEmployee extends JFrame
                 final AfterEmpAdd aeA = new AfterEmpAdd();
                 aeA.setVisible(true);
                 AfterEmployee.this.setVisible(false);
-            }
+             }
         });
     }
 }
